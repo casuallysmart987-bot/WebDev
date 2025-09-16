@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Dreamsol Pavilion 14",
+    "image": "https://example.com/pavilion14.png",
+    "price": 54999,
+    "features": ["Intel i5", "8GB RAM", "512GB SSD", "14\" FHD", "Windows 11"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Pavilion 15",
+    "image": "https://example.com/pavilion15.png",
+    "price": 62499,
+    "features": ["Intel i7", "16GB RAM", "512GB SSD", "15.6\" FHD", "Windows 11"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Pavilion x360",
+    "image": "https://example.com/pavilionx360.png",
+    "price": 68999,
+    "features": ["Intel i5", "16GB RAM", "512GB SSD", "Touchscreen", "Convertible"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Spectre 13",
+    "image": "https://example.com/spectre13.png",
+    "price": 94999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "13.3\" 4K OLED", "Ultra Slim"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Spectre 14",
+    "image": "https://example.com/spectre14.png",
+    "price": 109999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "14\" 3K2K OLED", "360° Hinge"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Omen 15",
+    "image": "https://example.com/omen15.png",
+    "price": 89999,
+    "features": ["AMD Ryzen 7", "16GB RAM", "512GB SSD", "RTX 3060", "144Hz Display"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Omen 16",
+    "image": "https://example.com/omen16.png",
+    "price": 124999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "RTX 4070", "165Hz QHD"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Victus 16",
+    "image": "https://example.com/victus16.png",
+    "price": 77999,
+    "features": ["AMD Ryzen 5", "16GB RAM", "512GB SSD", "RTX 3050", "144Hz"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Victus 15",
+    "image": "https://example.com/victus15.png",
+    "price": 69999,
+    "features": ["Intel i5", "8GB RAM", "512GB SSD", "RTX 3050", "15.6\" FHD"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol EliteBook 840",
+    "image": "https://example.com/elitebook840.png",
+    "price": 96499,
+    "features": ["Intel i5", "16GB RAM", "512GB SSD", "14\" FHD", "Business"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol EliteBook 850",
+    "image": "https://example.com/elitebook850.png",
+    "price": 114999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "15.6\" FHD", "Fingerprint"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol EliteBook Dragonfly",
+    "image": "https://example.com/dragonfly.png",
+    "price": 129999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "13.5\" Touch", "Ultralight"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol ProBook 440",
+    "image": "https://example.com/probook440.png",
+    "price": 54499,
+    "features": ["Intel i5", "8GB RAM", "512GB SSD", "14\" FHD", "Business"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol ProBook 450",
+    "image": "https://example.com/probook450.png",
+    "price": 59999,
+    "features": ["Intel i7", "16GB RAM", "512GB SSD", "15.6\" FHD", "Business"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol ProBook 401",
+    "image": "https://example.com/probook401.png",
+    "price": 58929,
+    "features": ["Intel i5", "16GB RAM", "512GB SSD"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Chromebook 14",
+    "image": "https://example.com/chromebook14.png",
+    "price": 29999,
+    "features": ["Intel Celeron", "4GB RAM", "64GB eMMC", "14\" HD", "ChromeOS"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Chromebook x360",
+    "image": "https://example.com/chromebookx360.png",
+    "price": 34499,
+    "features": ["Intel Pentium", "8GB RAM", "128GB eMMC", "Touchscreen", "Convertible"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Envy 14",
+    "image": "https://example.com/envy14.png",
+    "price": 84999,
+    "features": ["Intel i7", "16GB RAM", "512GB SSD", "14\" FHD", "Slim"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Envy 15",
+    "image": "https://example.com/envy15.png",
+    "price": 92999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "15.6\" OLED", "Touchscreen"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Envy x360",
+    "image": "https://example.com/envyx360.png",
+    "price": 89999,
+    "features": ["AMD Ryzen 7", "16GB RAM", "512GB SSD", "Convertible", "Touchscreen"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol ZBook Firefly 14",
+    "image": "https://example.com/zbookfirefly14.png",
+    "price": 135999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "NVIDIA T500", "14\" FHD"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol ZBook Fury 15",
+    "image": "https://example.com/zbookfury15.png",
+    "price": 185999,
+    "features": ["Intel i9", "32GB RAM", "1TB SSD", "RTX A2000", "15.6\" 4K"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol ZBook Studio 16",
+    "image": "https://example.com/zbookstudio16.png",
+    "price": 205999,
+    "features": ["Intel i9", "32GB RAM", "2TB SSD", "RTX A3000", "16\" 4K OLED"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol ZBook Power 15",
+    "image": "https://example.com/zbookpower15.png",
+    "price": 149999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "NVIDIA T1200", "15.6\" FHD"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Stream 11",
+    "image": "https://example.com/stream11.png",
+    "price": 22999,
+    "features": ["Intel Celeron", "4GB RAM", "64GB eMMC", "11.6\" HD", "Lightweight"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Stream 14",
+    "image": "https://example.com/stream14.png",
+    "price": 26999,
+    "features": ["Intel Celeron", "4GB RAM", "128GB eMMC", "14\" HD", "Portable"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Essential 14",
+    "image": "https://example.com/essential14.png",
+    "price": 35499,
+    "features": ["Intel Pentium", "8GB RAM", "256GB SSD", "14\" FHD", "Budget"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Essential 15",
+    "image": "https://example.com/essential15.png",
+    "price": 38499,
+    "features": ["Intel Pentium", "8GB RAM", "256GB SSD", "15.6\" FHD", "Budget"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Essential 17",
+    "image": "https://example.com/essential17.png",
+    "price": 42499,
+    "features": ["Intel i3", "8GB RAM", "256GB SSD", "17.3\" HD+", "Budget"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Ultrabook 13",
+    "image": "https://example.com/ultrabook13.png",
+    "price": 72999,
+    "features": ["Intel i5", "8GB RAM", "512GB SSD", "13.3\" FHD", "Slim"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Ultrabook 15",
+    "image": "https://example.com/ultrabook15.png",
+    "price": 82999,
+    "features": ["Intel i7", "16GB RAM", "512GB SSD", "15.6\" FHD", "Slim"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Ultrabook 17",
+    "image": "https://example.com/ultrabook17.png",
+    "price": 96999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "17.3\" UHD", "Slim"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol FlexBook 13",
+    "image": "https://example.com/flexbook13.png",
+    "price": 64499,
+    "features": ["Intel i5", "8GB RAM", "512GB SSD", "Convertible", "Touchscreen"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol FlexBook 15",
+    "image": "https://example.com/flexbook15.png",
+    "price": 74999,
+    "features": ["Intel i7", "16GB RAM", "512GB SSD", "Convertible", "Touchscreen"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol GamingBook 15",
+    "image": "https://example.com/gamingbook15.png",
+    "price": 99999,
+    "features": ["Intel i7", "16GB RAM", "1TB SSD", "RTX 3060", "144Hz Display"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol GamingBook 17",
+    "image": "https://example.com/gamingbook17.png",
+    "price": 139999,
+    "features": ["Intel i9", "32GB RAM", "2TB SSD", "RTX 4070", "17.3\" QHD"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Creator 15",
+    "image": "https://example.com/creator15.png",
+    "price": 129999,
+    "features": ["Intel i7", "32GB RAM", "1TB SSD", "RTX 3060", "15.6\" 4K"],
+    "category": "Laptop",
+    "inStock": true
+  },
+  {
+    "name": "Dreamsol Creator 17",
+    "image": "https://example.com/creator17.png",
+    "price": 179999,
+    "features": ["Intel i9", "32GB RAM", "2TB SSD", "RTX 4070", "17.3\" 4K OLED"],
+    "category": "Laptop",
+    "inStock": true
+  }
+]
+

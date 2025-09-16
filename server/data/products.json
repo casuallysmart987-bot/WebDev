@@ -1,0 +1,383 @@
+[
+    {
+      "name": "Dreamsol Pavilion 14",
+      "price": "₹54,999",
+      "image": "https://example.com/pavilion14.png",
+      "spec1": "Intel i5",
+      "spec2": "8GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "14\" FHD",
+      "spec5": "Windows 11"
+    },
+    {
+      "name": "Dreamsol Pavilion 15",
+      "price": "₹62,499",
+      "image": "https://example.com/pavilion15.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "15.6\" FHD",
+      "spec5": "Windows 11"
+    },
+    {
+      "name": "Dreamsol Pavilion x360",
+      "price": "₹68,999",
+      "image": "https://example.com/pavilionx360.png",
+      "spec1": "Intel i5",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "Touchscreen",
+      "spec5": "Convertible"
+    },
+    {
+      "name": "Dreamsol Spectre 13",
+      "price": "₹94,999",
+      "image": "https://example.com/spectre13.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "13.3\" 4K OLED",
+      "spec5": "Ultra Slim"
+    },
+    {
+      "name": "Dreamsol Spectre 14",
+      "price": "₹1,09,999",
+      "image": "https://example.com/spectre14.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "14\" 3K2K OLED",
+      "spec5": "360° Hinge"
+    },
+    {
+      "name": "Dreamsol Omen 15",
+      "price": "₹89,999",
+      "image": "https://example.com/omen15.png",
+      "spec1": "AMD Ryzen 7",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "RTX 3060",
+      "spec5": "144Hz Display"
+    },
+    {
+      "name": "Dreamsol Omen 16",
+      "price": "₹1,24,999",
+      "image": "https://example.com/omen16.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "RTX 4070",
+      "spec5": "165Hz QHD"
+    },
+    {
+      "name": "Dreamsol Victus 16",
+      "price": "₹77,999",
+      "image": "https://example.com/victus16.png",
+      "spec1": "AMD Ryzen 5",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "RTX 3050",
+      "spec5": "144Hz"
+    },
+    {
+      "name": "Dreamsol Victus 15",
+      "price": "₹69,999",
+      "image": "https://example.com/victus15.png",
+      "spec1": "Intel i5",
+      "spec2": "8GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "RTX 3050",
+      "spec5": "15.6\" FHD"
+    },
+    {
+      "name": "Dreamsol EliteBook 840",
+      "price": "₹96,499",
+      "image": "https://example.com/elitebook840.png",
+      "spec1": "Intel i5",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "14\" FHD",
+      "spec5": "Business"
+    },
+    {
+      "name": "Dreamsol EliteBook 850",
+      "price": "₹1,14,999",
+      "image": "https://example.com/elitebook850.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "15.6\" FHD",
+      "spec5": "Fingerprint"
+    },
+    {
+      "name": "Dreamsol EliteBook Dragonfly",
+      "price": "₹1,29,999",
+      "image": "https://example.com/dragonfly.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "13.5\" Touch",
+      "spec5": "Ultralight"
+    },
+    {
+      "name": "Dreamsol ProBook 440",
+      "price": "₹54,499",
+      "image": "https://example.com/probook440.png",
+      "spec1": "Intel i5",
+      "spec2": "8GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "14\" FHD",
+      "spec5": "Business"
+    },
+    {
+      "name": "Dreamsol ProBook 450",
+      "price": "₹59,999",
+      "image": "https://example.com/probook450.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "15.6\" FHD",
+      "spec5": "Business"
+    },
+    {
+      "name": "Dreamsol ProBook 401",
+      "price": "₹58,929",
+      "image": "https://example.com/probook401.png",
+      "spec1": "Intel i5",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "",
+      "spec5": ""
+    },
+    {
+      "name": "Dreamsol Chromebook 14",
+      "price": "₹29,999",
+      "image": "https://example.com/chromebook14.png",
+      "spec1": "Intel Celeron",
+      "spec2": "4GB RAM",
+      "spec3": "64GB eMMC",
+      "spec4": "14\" HD",
+      "spec5": "ChromeOS"
+    },
+    {
+      "name": "Dreamsol Chromebook x360",
+      "price": "₹34,499",
+      "image": "https://example.com/chromebookx360.png",
+      "spec1": "Intel Pentium",
+      "spec2": "8GB RAM",
+      "spec3": "128GB eMMC",
+      "spec4": "Touchscreen",
+      "spec5": "Convertible"
+    },
+    {
+      "name": "Dreamsol Envy 14",
+      "price": "₹84,999",
+      "image": "https://example.com/envy14.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "14\" FHD",
+      "spec5": "Slim"
+    },
+    {
+      "name": "Dreamsol Envy 15",
+      "price": "₹92,999",
+      "image": "https://example.com/envy15.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "15.6\" OLED",
+      "spec5": "Touchscreen"
+    },
+    {
+      "name": "Dreamsol Envy x360",
+      "price": "₹89,999",
+      "image": "https://example.com/envyx360.png",
+      "spec1": "AMD Ryzen 7",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "Convertible",
+      "spec5": "Touchscreen"
+    },
+    {
+      "name": "Dreamsol ZBook Firefly 14",
+      "price": "₹1,35,999",
+      "image": "https://example.com/zbookfirefly14.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "NVIDIA T500",
+      "spec5": "14\" FHD"
+    },
+    {
+      "name": "Dreamsol ZBook Fury 15",
+      "price": "₹1,85,999",
+      "image": "https://example.com/zbookfury15.png",
+      "spec1": "Intel i9",
+      "spec2": "32GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "RTX A2000",
+      "spec5": "15.6\" 4K"
+    },
+    {
+      "name": "Dreamsol ZBook Studio 16",
+      "price": "₹2,05,999",
+      "image": "https://example.com/zbookstudio16.png",
+      "spec1": "Intel i9",
+      "spec2": "32GB RAM",
+      "spec3": "2TB SSD",
+      "spec4": "RTX A3000",
+      "spec5": "16\" 4K OLED"
+    },
+    {
+      "name": "Dreamsol ZBook Power 15",
+      "price": "₹1,49,999",
+      "image": "https://example.com/zbookpower15.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "NVIDIA T1200",
+      "spec5": "15.6\" FHD"
+    },
+    {
+      "name": "Dreamsol Stream 11",
+      "price": "₹22,999",
+      "image": "https://example.com/stream11.png",
+      "spec1": "Intel Celeron",
+      "spec2": "4GB RAM",
+      "spec3": "64GB eMMC",
+      "spec4": "11.6\" HD",
+      "spec5": "Lightweight"
+    },
+    {
+      "name": "Dreamsol Stream 14",
+      "price": "₹26,999",
+      "image": "https://example.com/stream14.png",
+      "spec1": "Intel Celeron",
+      "spec2": "4GB RAM",
+      "spec3": "128GB eMMC",
+      "spec4": "14\" HD",
+      "spec5": "Portable"
+    },
+    {
+      "name": "Dreamsol Essential 14",
+      "price": "₹35,499",
+      "image": "https://example.com/essential14.png",
+      "spec1": "Intel Pentium",
+      "spec2": "8GB RAM",
+      "spec3": "256GB SSD",
+      "spec4": "14\" FHD",
+      "spec5": "Budget"
+    },
+    {
+      "name": "Dreamsol Essential 15",
+      "price": "₹38,499",
+      "image": "https://example.com/essential15.png",
+      "spec1": "Intel Pentium",
+      "spec2": "8GB RAM",
+      "spec3": "256GB SSD",
+      "spec4": "15.6\" FHD",
+      "spec5": "Budget"
+    },
+    {
+      "name": "Dreamsol Essential 17",
+      "price": "₹42,499",
+      "image": "https://example.com/essential17.png",
+      "spec1": "Intel i3",
+      "spec2": "8GB RAM",
+      "spec3": "256GB SSD",
+      "spec4": "17.3\" HD+",
+      "spec5": "Budget"
+    },
+    {
+      "name": "Dreamsol Ultrabook 13",
+      "price": "₹72,999",
+      "image": "https://example.com/ultrabook13.png",
+      "spec1": "Intel i5",
+      "spec2": "8GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "13.3\" FHD",
+      "spec5": "Slim"
+    },
+    {
+      "name": "Dreamsol Ultrabook 15",
+      "price": "₹82,999",
+      "image": "https://example.com/ultrabook15.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "15.6\" FHD",
+      "spec5": "Slim"
+    },
+    {
+      "name": "Dreamsol Ultrabook 17",
+      "price": "₹96,999",
+      "image": "https://example.com/ultrabook17.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "17.3\" UHD",
+      "spec5": "Slim"
+    },
+    {
+      "name": "Dreamsol FlexBook 13",
+      "price": "₹64,499",
+      "image": "https://example.com/flexbook13.png",
+      "spec1": "Intel i5",
+      "spec2": "8GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "Convertible",
+      "spec5": "Touchscreen"
+    },
+    {
+      "name": "Dreamsol FlexBook 15",
+      "price": "₹74,999",
+      "image": "https://example.com/flexbook15.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "512GB SSD",
+      "spec4": "Convertible",
+      "spec5": "Touchscreen"
+    },
+    {
+      "name": "Dreamsol GamingBook 15",
+      "price": "₹99,999",
+      "image": "https://example.com/gamingbook15.png",
+      "spec1": "Intel i7",
+      "spec2": "16GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "RTX 3060",
+      "spec5": "144Hz Display"
+    },
+    {
+      "name": "Dreamsol GamingBook 17",
+      "price": "₹1,39,999",
+      "image": "https://example.com/gamingbook17.png",
+      "spec1": "Intel i9",
+      "spec2": "32GB RAM",
+      "spec3": "2TB SSD",
+      "spec4": "RTX 4070",
+      "spec5": "17.3\" QHD"
+    },
+    {
+      "name": "Dreamsol Creator 15",
+      "price": "₹1,29,999",
+      "image": "https://example.com/creator15.png",
+      "spec1": "Intel i7",
+      "spec2": "32GB RAM",
+      "spec3": "1TB SSD",
+      "spec4": "RTX 3060",
+      "spec5": "15.6\" 4K"
+    },
+    {
+      "name": "Dreamsol Creator 17",
+      "price": "₹1,79,999",
+      "image": "https://example.com/creator17.png",
+      "spec1": "Intel i9",
+      "spec2": "32GB RAM",
+      "spec3": "2TB SSD",
+      "spec4": "RTX 4070",
+      "spec5": "17.3\" 4K OLED"
+    }
+]
+
